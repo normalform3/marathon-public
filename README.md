@@ -4,6 +4,16 @@
 
 > 这是 GitHub 作品展示版，仓库不包含真实服务器连接信息和私有配置。本地运行请参考 `marathon-webapp/src/main/resources/application-local.yml.example`。
 
+## 项目界面预览
+
+| 首页 | 赛事列表 |
+| --- | --- |
+| ![首页](docs/images/01-home.png) | ![赛事列表](docs/images/02-race-list.png) |
+
+| 跑者登录 | 主办方入口 | 管理员入口 |
+| --- | --- | --- |
+| ![跑者登录](docs/images/03-runner-login.png) | ![主办方入口](docs/images/04-organizer-login.png) | ![管理员入口](docs/images/05-admin-login.png) |
+
 ## 核心亮点
 
 - 双模式报名：大型赛事支持 `LOTTERY` 超额报名后抽签，小型赛事支持 `FIRST_COME` 限额报名报完即止。
